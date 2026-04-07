@@ -1,6 +1,6 @@
 👋 Hi, I’m @luis-ross-mvcr
 
-I work at MVCR
+I worked at TNCR during 3 years
 
 <!---
 luis-ross-mvcr/luis-ross-mvcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
